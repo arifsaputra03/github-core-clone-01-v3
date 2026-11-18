@@ -1,0 +1,8 @@
+# Build output and local data (never committed).
+/forge
+/.data/
+/data/
+*.log
+
+# Go.
+*.test
